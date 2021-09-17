@@ -1177,7 +1177,7 @@ input, select, textarea {
 		}
 
 		body.is-preload #bg:before {
-			background-color: rgb(102, 255, 153);
+			background-color: rgba(255, 176, 151, 1);
 		}
 
 /* Wrapper */
