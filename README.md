@@ -3,7 +3,7 @@ Hi Everyone, this is my portfolio for my website.
 
 <b>link to project</b> https://samekh-portfolio.netlify.app/
 
-![](Screen Shot 2021-09-17 at 2.17.25 AM.png)
+![](cutie.png)
 ### How It’s Made
 
 <b>Langs used</b>
